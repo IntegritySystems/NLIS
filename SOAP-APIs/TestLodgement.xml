@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<SOAP-ENV:Envelope xmlns:nlis="http://www.nlis.com.au/soap/ver2.0/nlis-soap.xsd" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+	<SOAP-ENV:Header>
+		<nlis:create-date>20220301</nlis:create-date>
+		<nlis:create-time>161402</nlis:create-time>
+	</SOAP-ENV:Header>
+	<SOAP-ENV:Body>
+		<nlis:TestLodgementInterface>
+		</nlis:TestLodgementInterface>
+	</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
