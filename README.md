@@ -1,4 +1,4 @@
-# ISC Developer Portal Code Samples
+# NLIS Developer Portal Code Samples
 
 A collection of code samples, saved sample requests (Postman collections) designed for distribution via the [ISC Developer Portal](https://developer.integritysystems.com.au/).
 Please feel free to use these for your own environments if you find them useful.
